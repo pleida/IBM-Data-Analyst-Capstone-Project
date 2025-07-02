@@ -1,7 +1,7 @@
 # IBM-Data-Analyst-Capstone-Project
 
-## Assignment Overview
-
+## Overview
+building a dashboard using data from the Stack Overflow survey using IBM Cognos Analytics . The dashboard will be divided into the following sections:
 ## Current technology usage tab
 Top 10 languages: Display the top 10 programming languages that respondents have worked with (LanguageHaveWorkedWith).
 
@@ -26,3 +26,5 @@ Countries: Show the number of respondents from various countries (Country).
 Age groups: Display respondents by age group (Age).
 
 Education level: Visualize respondents classified by their highest education level (EdLevel).
+
+
