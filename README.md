@@ -1,7 +1,7 @@
 # IBM-Data-Analyst-Capstone-Project
 
 ## Overview
-building a dashboard using data from the Stack Overflow survey using IBM Cognos Analytics . The dashboard will be divided into the following sections:
+Building a dashboard using data from the Stack Overflow survey on IBM Cognos Analytics . The dashboard will be divided into the following sections:
 ## Current technology usage tab
 Top 10 languages: Display the top 10 programming languages that respondents have worked with (LanguageHaveWorkedWith).
 
